@@ -6,6 +6,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
 
 ## Course Progress: 0%
 
+- [x] 01 - How to Use Each Module
+
 ## Course content
 
 ## Repository configuration
