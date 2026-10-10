@@ -17,6 +17,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 02.02.01 - Welcome to AWS Cloud Practitioner Essentials
   
   - [x] 02.03 - The AWS Cloud
+    
+    - [x] 02.03.01 - What is Cloud Computing? 
 
 ## Course content
 
