@@ -23,6 +23,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 02.03.02 - Benefits of the AWS Cloud
     
     - [x] 02.03.03 - Introduction to AWS Global Infrastructure
+    
+    - [x] 02.03.04 - The AWS Shared Responsibility Model
 
 ## Course content
 
