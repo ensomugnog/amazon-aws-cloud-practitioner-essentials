@@ -18,7 +18,9 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   
   - [x] 02.03 - The AWS Cloud
     
-    - [x] 02.03.01 - What is Cloud Computing? 
+    - [x] 02.03.01 - What is Cloud Computing?
+    
+    - [x] 02.03.02 - Benefits of the AWS Cloud
 
 ## Course content
 
