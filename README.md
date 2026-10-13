@@ -6,35 +6,37 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
 
 ## Course Progress: 0%
 
-- [x] 01 - How to Use Each Module
+- [x] 00 - How to Use Each Module
 
-- [x] 02 - Module 1: Introduction to the Cloud
+- [x] 01 - Module 1: Introduction to the Cloud
   
-  - [x] 02.01 - How to Use Each Module
+  - [x] 01.01 - How to Use Each Module
 
-  - [x] 02.02 - Module 1 Introduction
+  - [x] 01.02 - Module 1 Introduction
   
-    - [x] 02.02.01 - Welcome to AWS Cloud Practitioner Essentials
+    - [x] 01.02.01 - Welcome to AWS Cloud Practitioner Essentials
   
-  - [x] 02.03 - The AWS Cloud
+  - [x] 01.03 - The AWS Cloud
     
-    - [x] 02.03.01 - What is Cloud Computing?
+    - [x] 01.03.01 - What is Cloud Computing?
     
-    - [x] 02.03.02 - Benefits of the AWS Cloud
+    - [x] 01.03.02 - Benefits of the AWS Cloud
     
-    - [x] 02.03.03 - Introduction to AWS Global Infrastructure
+    - [x] 01.03.03 - Introduction to AWS Global Infrastructure
     
-    - [x] 02.03.04 - The AWS Shared Responsibility Model
+    - [x] 01.03.04 - The AWS Shared Responsibility Model
   
-  - [x] 02.04 - Cloud in Real Life
+  - [x] 01.04 - Cloud in Real Life
   
-    - [x] 02.04.01 - Applying Cloud Concepts to Real Life Use Cases
+    - [x] 01.04.01 - Applying Cloud Concepts to Real Life Use Cases
   
-  - [x] 02.05 - Module 1 Conclusion
+  - [x] 01.05 - Module 1 Conclusion
 
-    - [x] 02.05.01 - Assessment
+    - [x] 01.05.01 - Assessment
 
-    - [x] 02.05.02 - Module Summary
+    - [x] 01.05.02 - Module Summary
+
+- [x] 02 - Module 2 - Compute in the Cloud
 
 ## Course content
 
