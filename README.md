@@ -4,7 +4,7 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
 
 **Course**: [https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7](https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7)
 
-## Course Progress: 0%
+## Course Progress: 7.69%
 
 - [x] 00 - How to Use Each Module
 
