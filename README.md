@@ -34,6 +34,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
 
     - [x] 02.05.01 - Assessment
 
+    - [x] 02.05.02 - Module Summary
+
 ## Course content
 
 ## Repository configuration
