@@ -41,6 +41,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   - [x] 02.01 - Module 2 Introduction
   
     - [x] 02.01.01 - Introduction to Amazon EC2
+    
+  - [x] 02.02 - Compute in the Cloud
 
 ## Course content
 
