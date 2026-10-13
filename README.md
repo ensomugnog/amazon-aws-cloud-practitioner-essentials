@@ -29,6 +29,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   - [x] 02.04 - Cloud in Real Life
   
     - [x] 02.04.01 - Applying Cloud Concepts to Real Life Use Cases
+  
+  - [x] 02.05 - Module 1 Conclusion
 
 ## Course content
 
