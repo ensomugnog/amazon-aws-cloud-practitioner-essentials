@@ -90,7 +90,9 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   
   - [x] 04.01 - Module 4 Introduction
   
-  - [x] 04.01.01 - Introduction to Going Global
+    - [x] 04.01.01 - Introduction to Going Global
+  
+  - [x] 04.02 - AWS Global Infrastructure
 
 ## Course content
 
