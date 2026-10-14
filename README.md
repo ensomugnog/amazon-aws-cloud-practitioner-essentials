@@ -47,6 +47,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 02.02.01 - Amazon EC2 Instance Types
     
     - [x] 02.02.02 - How to Provision AWS Resources
+    
+    - [x] 02.02.03 - Demo: Launching an Amazon EC2 Instance
 
 ## Course content
 
