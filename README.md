@@ -77,6 +77,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 03.02.01 - AWS Lambda
     
     - [x] 03.02.02 - Containers and Orchestration on AWS
+    
+    - [x] 03.02.03 - Additional Compute Services 
 
 ## Course content
 
