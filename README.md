@@ -73,6 +73,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 03.01.01 - Introduction to Serverless Computing
 
   - [x] 03.02 - AWS Serverless, Containers, and Solutions Overview
+  
+    - [x] 03.02.01 - AWS Lambda
 
 ## Course content
 
