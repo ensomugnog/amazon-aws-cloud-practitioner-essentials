@@ -55,6 +55,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   - [x] 02.03 - Auto Scaling and Load Balancing
   
     - [x] 02.03.01 - Scaling Amazon EC2
+    
+    - [x] 02.03.02 - Directing Traffic with Elastic Load Balancing
 
 ## Course content
 
