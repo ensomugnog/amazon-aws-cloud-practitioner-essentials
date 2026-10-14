@@ -61,6 +61,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 02.03.03 - Messaging and Queuing
   
   - [x] 02.04 - Module 2 Conclusion
+  
+    - [x] 02.04.01 - Assessment
 
 ## Course content
 
