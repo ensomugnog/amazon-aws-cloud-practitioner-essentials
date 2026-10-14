@@ -45,6 +45,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   - [x] 02.02 - Compute in the Cloud
   
     - [x] 02.02.01 - Amazon EC2 Instance Types
+    
+    - [x] 02.02.02 - How to Provision AWS Resources
 
 ## Course content
 
