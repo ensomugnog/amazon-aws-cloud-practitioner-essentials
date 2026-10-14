@@ -81,6 +81,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 03.02.03 - Additional Compute Services
   
   - [x] 03.03 - Module 3 Conclusion
+    
+    - [x] 03.03.01 - Assessment
 
 ## Course content
 
