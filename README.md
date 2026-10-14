@@ -68,6 +68,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
 
 - [x] 03 - Module 3: Exploring Compute Services
 
+  - [x] 03.01 - Module 3 Introduction
+
 ## Course content
 
 ## Repository configuration
