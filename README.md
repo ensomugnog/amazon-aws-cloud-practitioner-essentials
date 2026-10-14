@@ -87,6 +87,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 03.03.02 - Module Summary
 
 - [x] 04 - Module 4 - Going Global
+  
+  - [x] 04.01 - Module 4 Introduction
 
 ## Course content
 
