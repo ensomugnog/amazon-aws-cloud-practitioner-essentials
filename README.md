@@ -78,7 +78,9 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     
     - [x] 03.02.02 - Containers and Orchestration on AWS
     
-    - [x] 03.02.03 - Additional Compute Services 
+    - [x] 03.02.03 - Additional Compute Services
+  
+  - [x] 03.03 - Module 3 Conclusion
 
 ## Course content
 
