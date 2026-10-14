@@ -51,6 +51,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 02.02.03 - Demo: Launching an Amazon EC2 Instance
     
     - [x] 02.02.04 - Amazon EC2 Pricing
+  
+  - [x] 02.03 - Auto Scaling and Load Balancing
 
 ## Course content
 
