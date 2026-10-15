@@ -100,7 +100,9 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     
     - [x] 04.02.03 - Infrastructure and Automation
   
-  - [x] 04.03 - Module 4 Conclusion 
+  - [x] 04.03 - Module 4 Conclusion
+  
+    - [x] 04.03.01 - Assessment
 
 ## Course content
 
