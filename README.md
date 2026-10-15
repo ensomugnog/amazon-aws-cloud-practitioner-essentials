@@ -97,6 +97,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 04.02.01 - Choosing AWS Regions
     
     - [x] 04.02.02 - Diving Deeper into AWS Global Infrastructure
+    
+    - [x] 04.02.03 - Infrastructure and Automation
 
 ## Course content
 
