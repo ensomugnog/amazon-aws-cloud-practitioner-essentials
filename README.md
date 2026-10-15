@@ -111,6 +111,10 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
   - [x] 05.01 - Module 5 Introduction
   
     - [x] 05.01.01 - Introduction to Networking
+    
+  - [x] 05.02 - Network Components in the AWS Cloud
+  
+    - [x] 05.02.01 - Organizing AWS Cloud Resources 
 
 ## Course content
 
