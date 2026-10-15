@@ -109,6 +109,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
 - [x] 05 - Module 5 - Networking
   
   - [x] 05.01 - Module 5 Introduction
+  
+    - [x] 05.01.01 - Introduction to Networking
 
 ## Course content
 
