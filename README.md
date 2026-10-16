@@ -117,6 +117,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 05.02.01 - Organizing AWS Cloud Resources
     
     - [x] 05.02.02 - More Ways to Connect to the AWS Cloud
+    
+    - [x] 05.02.03 - Subnets, Security Groups, and Network Access Control Lists
 
 ## Course content
 
