@@ -120,7 +120,9 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     
     - [x] 05.02.03 - Subnets, Security Groups, and Network Access Control Lists
     
-    - [x] 05.02.04 - SAmazon VPC Demo
+    - [x] 05.02.04 - Amazon VPC Demo
+    
+    - [x] 05.02.06 - Global Networking
 
 ## Course content
 
