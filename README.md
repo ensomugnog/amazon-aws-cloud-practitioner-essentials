@@ -129,6 +129,8 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     - [x] 05.03.01 - Global Architectures
   
   - [x] 05.04 - Module 5 Conclusion
+  
+    - [x] 05.04.01 - Assessment
 
 ## Course content
 
