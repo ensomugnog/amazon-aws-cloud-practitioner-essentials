@@ -124,7 +124,9 @@ In a digital-first world, cloud knowledge is a career advantage. This refreshed 
     
     - [x] 05.02.06 - Global Networking
   
-  - [x] 05.03 - Cloud in Real Life 
+  - [x] 05.03 - Cloud in Real Life
+  
+    - [x] 05.03.01 - Global Architectures
 
 ## Course content
 
